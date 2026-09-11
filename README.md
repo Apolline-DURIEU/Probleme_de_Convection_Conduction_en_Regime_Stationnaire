@@ -1,2 +1,8 @@
-# Probleme_de_Convection_Conduction_en_Regime_Stationnaire
-Projet de Méthode Numérique pour la Mécanique autour de la méthode des éléments finis, sur un modèle de répartition de la chaleur dans un barreau en 1D puis en 2D
+
+# Projet de Méthode Numérique pour la Mécanique
+## Problème de Convection/Conduction en Régime Stationnaire 🔥❄️
+
+Projet de MNM autour de la ***méthode des éléments finis***.  
+Le tout est appliqué sur l'étude de la répartition de la chaleur dans un système, d'abord en ***1D*** pour un tour de chauffe, puis en ***2D***.  
+  
+*Les codes sont tapés en python.*
